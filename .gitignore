@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.out
+*.toc
+
+# Archives
+*.zip
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Stale duplicate report draft (superseded by a2_report/a2_report/*)
+a2_report/a2_report/a2_report_10-Feb-2024/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
